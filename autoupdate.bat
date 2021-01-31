@@ -8,6 +8,7 @@ REM
 REM                        autoupdate.bat
 REM
 REM Automatic RDP Wrapper installer and updater // asmtron (07-09-2019)
+REM ADD new dowload URL // (01-31-2021)
 REM -------------------------------------------------------------------
 REM Options:
 REM   -log        = redirect display output to the file autoupdate.log
