@@ -3,9 +3,13 @@ rdpwrap autoupdate for latest 'rdpwrap.ini' file.
 
 自由更新RDP Wrapper中的rdpwrap.ini文件  
 
-please use RDPWrapperupdate.bat  
+Firstly，Download RDP Wrapper here:  
+https://github.com/stascorp/rdpwrap/releases
 
-There are rdpwrap.ini  
+
+Then,please use RDPWrapperupdate.bat  
+
+Or,There are rdpwrap.ini  
 https://raw.githubusercontents.com/sebaxakerhtc/rdpwrap.ini/master/rdpwrap.ini  
 https://raw.githubusercontent.com/sebaxakerhtc/rdpwrap.ini/master/rdpwrap.ini  
 
